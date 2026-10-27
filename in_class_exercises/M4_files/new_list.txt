@@ -1,0 +1,5 @@
+1155: 	1155 E 60th St
+K: 	Kent Chemical Laboratory, 1020 E. 58th St.
+SS: 	Social Sciences Research Building, 1126 E. 59th St.
+STU: 	Harold Leonard Stuart Hall, 5835 S. Greenwood Ave.
+TTI: 	Toyota Technical Institute at Chicago, 6045 S. Kenwood Ave.
