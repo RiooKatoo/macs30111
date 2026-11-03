@@ -101,3 +101,12 @@ nums = [1, 2, 3, 4, 5, 6]
 result = ["even" if n % 2 == 0 else "odd" for n in nums]
 print(result)
 # ["odd", "even", "odd", "even"]
+
+str = ["int", "str", "float"]
+str[3] = ("bob")
+print(str)
+
+fruits = {"Apple":3, "Orange":2, "Pineapple":1, "Strawberry":0, "Orange":1}
+
+for i, name in enumerate(fruits):
+    if fruits[i] == "Apple"
